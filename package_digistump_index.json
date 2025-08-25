@@ -3,10 +3,10 @@
     {
       "name": "digistump",
       "maintainer": "Digistump,ArminJo",
-      "websiteURL": "https://github.com/ArminJo/DigistumpArduino",
+      "websiteURL": "https://github.com/Sagittarius-B/DigistumpArduino",
       "email": "armin.arduino@gmail.com",
       "help": {
-        "online": "https://github.com/ArminJo/DigistumpArduino"
+        "online": "https://github.com/Sagittarius-B/DigistumpArduino"
       },
       "platforms": [
         {
@@ -14,12 +14,12 @@
           "architecture": "avr",
           "version": "1.7.5",
           "category": "Digistump",
-          "url": "https://github.com/ArminJo/DigistumpArduino/raw/master/digistump-avr-1.7.5.zip",
+          "url": "https://github.com/Sagittarius-B/DigistumpArduino/raw/master/digistump-avr-1.7.5.zip",
           "archiveFileName": "digistump-avr-1.7.5.zip",
           "checksum": "SHA-256:cf37933e721eecc010d1e890cff4174ad8439662e4e610a6cd950f0ce8c124f0",
           "size": "2261198",
           "help": {
-            "online": "https://github.com/ArminJo/DigistumpArduino"
+            "online": "https://github.com/Sagittarius-B/DigistumpArduino"
           },
           "boards": [
             {
@@ -47,7 +47,7 @@
           "architecture": "avr",
           "version": "1.7.4",
           "category": "Digistump",
-          "url": "https://github.com/ArminJo/DigistumpArduino/raw/master/digistump-avr-1.7.4.zip",
+          "url": "https://github.com/Sagittarius-B/DigistumpArduino/raw/master/digistump-avr-1.7.4.zip",
           "archiveFileName": "digistump-avr-1.7.4.zip",
           "checksum": "SHA-256:3d1e0961ef930493463e3a0b4e604eafa45d330dce5ef4b13f8dfd40597e5d59",
           "size": "2328024",
@@ -83,7 +83,7 @@
           "architecture": "avr",
           "version": "1.7.3",
           "category": "Digistump",
-          "url": "https://github.com/ArminJo/DigistumpArduino/raw/master/digistump-avr-1.7.3.zip",
+          "url": "https://github.com/Sagittarius-B/DigistumpArduino/raw/master/digistump-avr-1.7.3.zip",
           "archiveFileName": "digistump-avr-1.7.3.zip",
           "checksum": "SHA-256:d02589de2d51b5ce2ebb92eca441d4cdbcfa185ebeee52b9a3b25c4114c34556",
           "size": "2327871",
